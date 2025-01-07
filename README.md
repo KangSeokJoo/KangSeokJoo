@@ -3,6 +3,19 @@
 
 [//]: # (![Typing SVG]&#40;https://readme-typing-svg.demolab.com/?lines=Here+are+my+skills;though+they+may+still+be+lacking&#41;)
 <img id="typing" alt="typing" src="https://readme-typing-svg.demolab.com/?lines=Here+are+my+skills;though+they+may+still+be+lacking" />
+<br>
+<img id="badgeAndroid" alt="badgeAndroid" src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
+<img id="badgeSwift" alt="badgeSwift" src="https://img.shields.io/badge/Swift-orange?style=plastic&logo=Swift&logoColor=white"/>
+<img id="badgeBitrise" alt="badgeBitrise" src="https://img.shields.io/badge/Bitrise-7438a2?style=plastic&logo=bitrise&logoColor=white"/>
+<img id="badgeNotion" alt="badgeNotion" src="https://img.shields.io/badge/Notion-white?style=plastic&logo=Notion&logoColor=black"/>
+<img id="badgeKotlin" alt="badgeKotlin" src="https://img.shields.io/badge/Kotlin-734cd2?style=plastic&logo=kotlin&logoColor=905dab"/>
+<img id="badgeFirebase" alt="badgeFirebase" src="https://img.shields.io/badge/Firebase-de3507?style=plastic&logo=firebase&logoColor=yellow"/>
+<img id="badgeGithub" alt="badgeGithub" src="https://img.shields.io/badge/Github-black?style=plastic&logo=github&logoColor=white"/>
+<img id="badgePlayStore" alt="badgePlayStore" src="https://img.shields.io/badge/PlayStore-white?style=plastic&logo=googleplay&logoColor=black"/>
+<img id="badgePostman" alt="badgePostman" src="https://img.shields.io/badge/Postman-orange?style=plastic&logo=postman&logoColor=white"/>
+<img id="badgeInsomnia" alt="badgeInsomnia" src="https://img.shields.io/badge/Insomnia-white?style=plastic&logo=insomnia&logoColor=605ad2"/>
+<img id="badgeAsana" alt="badgeAsana" src="https://img.shields.io/badge/Asana-white?style=plastic&logo=asana&logoColor=red"/>
+<img id="badgeAsana" alt="badgeAsana" src="https://img.shields.io/badge/Slack-511E52?style=plastic&logo=slack&logoColor=white"/>
 
 [//]: # (![StatCard]&#40;https://github-readme-stats-8c11-kangseokjoos-projects.vercel.app/api?username=KangSeokJoo&hide=stars,issues&include_all_commits=true&show_icons=true&locale=en&border_radius=20&theme=dracula#gh-dark-mode-only&#41;&nbsp;![Top Langs]&#40;https://github-readme-stats-8c11-kangseokjoos-projects.vercel.app/api/top-langs/?username=KangSeokJoo&layout=compact&include_all_commits=true&#41;)
 <img id="statsCard" alt="statsCard" src="https://github-readme-stats-8c11-kangseokjoos-projects.vercel.app/api?username=KangSeokJoo&hide=stars,issues&include_all_commits=true&show_icons=true&locale=en&border_radius=20&theme=dracula#gh-dark-mode-only" />&nbsp;<img id="mostLang" src="https://github-readme-stats-8c11-kangseokjoos-projects.vercel.app/api/top-langs/?username=KangSeokJoo&layout=compact&include_all_commits=true" alt="mostLang"/>
