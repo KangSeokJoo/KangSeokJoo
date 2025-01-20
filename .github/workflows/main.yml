@@ -2,7 +2,7 @@ name: update snake Animation
 on:
   schedule:
     # 1주일
-    - cron: "0 0 * * 1"
+    - cron: "0 0 */3 * *"
   workflow_dispatch:
   push:
     branches:
@@ -48,6 +48,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          ref: main
 
       - name: Setup Git
         run: |
