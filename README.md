@@ -28,7 +28,7 @@
 
 <br>
 
-![[STREAK](https://streak-stats.demolab.com?user=KangSeokJoo&theme=dark&hide_border=true&border_radius=20)](https://raw.githubusercontent.com/KangSeokJoo/KangSeokJoo/refs/heads/output/streak.svg)
+![[STREAK](https://streak-stats.demolab.com?user=KangSeokJoo&theme=dark&hide_border=true&border_radius=20)](https://raw.githubusercontent.com/KangSeokJoo/KangSeokJoo/refs/heads/main/src/streak.svg)
 
 <img id="graph" alt="graph" src="https://github-readme-activity-graph.vercel.app/graph?username=KangSeokJoo&amp;theme=xcode&amp;radius=16&amp;area=true" width="91%"/>
 
