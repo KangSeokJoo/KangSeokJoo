@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: KangSeokJoo
+          github_user_name: Candy-Tree
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
@@ -47,7 +47,7 @@ jobs:
 
       - name: Save Streak SVG
         run: |
-          curl -L "https://streak-stats.demolab.com?user=KangSeokJoo&theme=dark&hide_border=true&border_radius=20" \
+          curl -L "https://streak-stats.demolab.com?user=Candy-Tree&theme=dark&hide_border=true&border_radius=20" \
             -o src/streak.svg
           
           if [ ! -s src/streak.svg ]; then
@@ -59,7 +59,7 @@ jobs:
 
       - name: Save StatCard SVG
         run: |
-          curl -L "https://github-readme-stats-8c11-kangseokjoos-projects.vercel.app/api?username=KangSeokJoo&hide=stars,issues&include_all_commits=true&show_icons=true&locale=en&border_radius=20&theme=dracula#gh-dark-mode-only" \
+          curl -L "https://github-readme-stats-8c11-kangseokjoos-projects.vercel.app/api?username=Candy-Tree&hide=stars,issues&include_all_commits=true&show_icons=true&locale=en&border_radius=20&theme=dracula#gh-dark-mode-only" \
             -o src/statCard.svg
           
           if [ ! -s src/statCard.svg ]; then
@@ -71,7 +71,7 @@ jobs:
 
       - name: Save MostUsed SVG
         run: |
-          curl -L "https://github-readme-stats-8c11-kangseokjoos-projects.vercel.app/api/top-langs/?username=KangSeokJoo&layout=compact&include_all_commits=true" \
+          curl -L "https://github-readme-stats-8c11-kangseokjoos-projects.vercel.app/api/top-langs/?username=Candy-Tree&layout=compact&include_all_commits=true" \
             -o src/mostUsed.svg
           
           if [ ! -s src/mostUsed.svg ]; then
@@ -83,7 +83,7 @@ jobs:
 
       - name: Save ContributionGraph SVG
         run: |
-          curl -L "https://github-readme-activity-graph.vercel.app/graph?username=KangSeokJoo&theme=xcode&radius=16&area=true" \
+          curl -L "https://github-readme-activity-graph.vercel.app/graph?username=Candy-Tree&theme=xcode&radius=16&area=true" \
             -o src/contributionGraph.svg
           
           if [ ! -s src/contributionGraph.svg ]; then
